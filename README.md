@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hey there, I’m Sayan Jha
 
-<!--
-**SayanJha/SayanJha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Class 12 student & future AI/ML Engineer
+- 🐍 Currently learning Python and Data Structures
+- 📚 Working through *Python Crash Course*
+- 💻 Dreaming of building cool AI projects and solving real-world problems
+- 🛠️ Uploading beginner projects and DSA practice here!
 
-Here are some ideas to get you started:
+## 🔥 Current Focus
+- Python Basics ✅
+- DSA Challenges 🔥
+- Mini Projects (CLI + GUI) ⚙️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+- Email: 
+
+---
+
+✨ Thanks for visiting my profile!
